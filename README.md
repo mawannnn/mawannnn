@@ -23,4 +23,4 @@ No tech stack badges yet. I'm still learning the basics.
 
 ## My Contribution Snake
 
-![Snake](https://raw.githubusercontent.com/mawannnn/mawannnn/output/github-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/mawannnn/mawannnn/output/github-snake.svg)
