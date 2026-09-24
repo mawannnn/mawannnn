@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm an incoming D3 Informatics student at Politeknik Negeri Banjarmasin (POLIBAN). I come from a Broadcasting & Film background and I'm now learning programming from scratch. I'm curious about Data Analytics and Machine Learning,
+I'm an incoming D3 Informatics student at Politeknik Negeri Banjarmasin (POLIBAN). I'm curious about Data Analytics and Machine Learning,
 
 ## Tech
 
