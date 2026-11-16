@@ -18,7 +18,8 @@ I'm **Ahmad Dharmawan** — first-semester **Informatics Engineering** student, 
 
 ## Inspiration
 
-**Andrej Karpathy** That's the engineer I want to become.
+**Andrej Karpathy** is the through-line. His repo — `micrograd`, `llm.c`, the nanoGPT walkthroughs — is the clearest argument I've seen for understanding the stack all the way down. He doesn't just ship models; he ships the intuition behind them. That's the engineer I want to become.
+
 - [Andrej Karpathy](https://github.com/karpathy)
 ---
 
@@ -53,6 +54,10 @@ Soon.
 ## Goal
 
 Land a software engineering or ML engineering role at a **FAANG** company.
+
+<p align="center">
+  <img src="assets/faang.jpg" alt="FAANG" width="640" />
+</p>
 
 ---
 
